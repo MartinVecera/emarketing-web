@@ -1,0 +1,66 @@
+body, html {
+    font-family: 'Antic Slab', serif;
+    height: 100%;
+    background-color: lightgrey;
+}
+
+.nadpis {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: lightgrey;
+    background-color: lightgrey;
+}
+
+.omne {
+    text-align: center;
+}
+
+.kontakt {
+    text-align: center;
+}
+
+.blok {
+    background-color: lightgrey;
+}
+
+.sekce {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+a {
+    color: black;
+}
+
+.ramecek {
+    padding: 25px;
+    background-color: burlywood;
+    height: 100%;
+}
+
+.paticka {
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("images/thought-catalog-505eectW54k-unsplash.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text_obrazku {
+    color: white;
+    text-align: center;
+    padding-top: 21%;
+    font-size: 50px;
+}
